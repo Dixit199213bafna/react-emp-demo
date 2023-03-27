@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "basicSalary": 50000
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "basicSalary": 60000
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "basicSalary": 70000
+    },
+    {
+      "id": 4,
+      "name": "Alice Jones",
+      "basicSalary": 45000
+    },
+    {
+      "id": 5,
+      "name": "Mike Smith",
+      "basicSalary": 55000
+    },
+    {
+      "id": 6,
+      "name": "Sarah Lee",
+      "basicSalary": 65000
+    },
+    {
+      "id": 7,
+      "name": "David Kim",
+      "basicSalary": 80000
+    },
+    {
+      "id": 8,
+      "name": "Emily Davis",
+      "basicSalary": 75000
+    },
+    {
+      "id": 9,
+      "name": "Peter Smith",
+      "basicSalary": 40000
+    },
+    {
+      "id": 10,
+      "name": "Olivia Johnson",
+      "basicSalary": 90000
+    }
+  ]
+}
